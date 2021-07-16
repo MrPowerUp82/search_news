@@ -1,2 +1,2 @@
 # search_news
-Script para pegar notícias do uol
+Script para pegar as últimas notícias do uol
